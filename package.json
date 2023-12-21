@@ -2,5 +2,8 @@
   "name": "mqttEmergentes",
   "dependencies": {
     "mqtt": "^5.3.3"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
